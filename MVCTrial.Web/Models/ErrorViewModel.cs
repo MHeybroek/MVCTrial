@@ -1,5 +1,3 @@
-using System;
-
 namespace MVCTrial.Models
 {
     public class ErrorViewModel

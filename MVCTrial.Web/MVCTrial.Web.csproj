@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVCTrial.Core\MVCTrial.Core.csproj" />
+    <ProjectReference Include="..\MVCTrial.Data\MVCTrial.Data.csproj" />
+  </ItemGroup>
+</Project>
