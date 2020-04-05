@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCTrial.Data", "MVCTrial.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCTrial.Web", "MVCTrial.Web\MVCTrial.Web.csproj", "{66ABA27A-DC63-4ECA-AD26-A341BAE7FA17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTrial.RazorPages", "MVCTrial_RazorPages\MVCTrial.RazorPages.csproj", "{4753D5F2-525D-40F7-8E53-80946A5E4A80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66ABA27A-DC63-4ECA-AD26-A341BAE7FA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66ABA27A-DC63-4ECA-AD26-A341BAE7FA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66ABA27A-DC63-4ECA-AD26-A341BAE7FA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4753D5F2-525D-40F7-8E53-80946A5E4A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4753D5F2-525D-40F7-8E53-80946A5E4A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4753D5F2-525D-40F7-8E53-80946A5E4A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4753D5F2-525D-40F7-8E53-80946A5E4A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
