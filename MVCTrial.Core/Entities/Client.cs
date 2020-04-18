@@ -1,7 +1,5 @@
 ﻿using MVCTrial.Helper;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MVCTrial_Core.Entities
 {
@@ -12,5 +10,6 @@ namespace MVCTrial_Core.Entities
         public string Email { get; set; }
         public Contact Contact { get; set; }
         public bool IsActive { get; set; }
+        public Type type { get; set; }
     }
 }
